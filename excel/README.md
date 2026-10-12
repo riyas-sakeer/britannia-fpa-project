@@ -1,0 +1,12 @@
+# Excel Model
+
+![Dashboard](../assets/excel-dashboard.png)
+![budgetvsactual](/assets/budget-actual-excel.PNG)
+![Commentory](/assets/commentory-excel.PNG)
+## Sheets
+
+- **Dashboard** — KPI cards, 10-year trend, budget vs actual, forecast, driver commentary
+- **Model_Data** — clean long-format source data (Power Query output)
+- **Budget vs Actual** — dynamic XLOOKUP + EDATE prior-year comparison
+- **Forecast** — OFFSET-based rolling 4-quarter average growth, dropdown-driven (Data Validation + IFS)
+- **Commentary** — auto-ranked top variance drivers (LARGE + INDEX/MATCH)
