@@ -28,11 +28,11 @@ with a management-ready PowerPoint summary.
 
 ## Excel Dashboard
 
-![Excel Dashboard](assets/excel-dashboard.png)
+![Excel Dashboard](assets/excel-dashboard.PNG)
 
 ## PowerPoint Summary
 
-![PPTX Slide](assets/pptx-title-slide.png)
+![PPTX Slide](assets/pptx-title-slide.PNG)
 
 ## Skills Demonstrated
 
