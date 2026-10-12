@@ -1,8 +1,8 @@
 # Excel Model
 
-![Dashboard](../assets/excel-dashboard.png)
-![budgetvsactual](/assets/budget-actual-excel.png)
-![Commentory](/assets/commentory-excel.png)
+![Dashboard](/assets/excel-dashboard.PNG)
+![budgetvsactual](/assets/budget-actual-excel.PNG)
+![Commentory](/assets/commentory-excel.PNG)
 ## Sheets
 
 - **Dashboard** — KPI cards, 10-year trend, budget vs actual, forecast, driver commentary

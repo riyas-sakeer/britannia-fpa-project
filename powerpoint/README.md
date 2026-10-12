@@ -1,7 +1,7 @@
 # Management Presentation
 
-![Title Slide](../assets/pptx-title-slide.png)
-![Trend Slide](../assets/pptx-trend-slide.png)
+![Title Slide](/assets/pptx-title-slide.PNG)
+![Trend Slide](/assets/pptx-trend-slide.PNG)
 
 6-slide executive summary: KPI overview, 10-year trend, budget 
 discipline, forecast & cash position, and key drivers with 
